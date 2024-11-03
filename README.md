@@ -1,6 +1,6 @@
 ## Ramaiah_Skill_Academy_Abhishek_M_RSAGWPESD0115_Assignment_2
 
-### This is the repository of assignment 2 given on 25/10/2024. The assignment was based on Matlab and this repository consists of solution to the questions mentioned below and the file name of the answer script/code/chart/model has been put next to the question below.
+### This repository contains the solutions for Assignment 2, assigned on October 25, 2024, which focuses on MATLAB. Each question is accompanied by the corresponding filename of the answer script, code, chart, or model.
 
 #### Matlab Stateflow
 #### 1 Washing Machine Cycle (stf_pro_1.slx)
