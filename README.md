@@ -24,5 +24,5 @@ Develop a Simulink model for an RC circuit and simulate its response to a step i
 Create a Simulink model to simulate the temperature change in a water tank as it heats up over time. Use a basic heat source and observe the temperature rise.
 
 #### PID Control in MATLAB/Simulink
-1. tf=(s3-s+10)/(s4+3s^2-20) (cnt_1.slx)
-2. tf=(s3+2s^2+s+10)/(s4+3s-20) (cnt_2.slx)
+tf=(s3-s+10)/(s4+3s^2-20) (cnt_1.slx)
+tf=(s3+2s^2+s+10)/(s4+3s-20) (cnt_2.slx)
