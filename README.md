@@ -10,6 +10,7 @@ Design a Stateflow chart to simulate a washing machine cycle with states such as
 Construct a Stateflow chart for an elevator control system. The elevator should have states for each floor (e.g., Floor 1, Floor 2, etc.) and transitions for Up and Down. Add logic for door open/close.
 
 #### MATLAB Programming
+........................
 #### 1 Projectile Trajectory Simulation (lab_pro_1.m)
 Develop a MATLAB script that simulates and plots the trajectory of a projectile. Take into account initial velocity, launch angle, and gravitational acceleration. Plot the range and maximum height.
 
