@@ -11,13 +11,13 @@ Develop a MATLAB script that simulates and plots the trajectory of a projectile.
 #### 2 Random Number Sequence Generation (lab_pro_2.m)
 Write a MATLAB script to generate a sequence of random numbers and plot them as a line graph.
 
-### Simulink
+#### Simulink
 #### 1 RC Circuit Model
 Develop a Simulink model for an RC circuit and simulate its response to a step input voltage. Plot the charging and discharging curve of the capacitor and analyze the time constant.
 
 #### 2 Water Tank Temperature Simulation (sl_2.slx)
 Create a Simulink model to simulate the temperature change in a water tank as it heats up over time. Use a basic heat source and observe the temperature rise.
 
-### PID Control in MATLAB/Simulink
+#### PID Control in MATLAB/Simulink
 1. tf=(s3-s+10)/(s4+3s^2-20) (cnt_1.slx)
 2. tf=(s3+2s^2+s+10)/(s4+3s-20) (cnt_2.slx)
