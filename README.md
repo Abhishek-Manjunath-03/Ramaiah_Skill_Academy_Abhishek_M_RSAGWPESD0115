@@ -1,10 +1,15 @@
 ## Ramaiah_Skill_Academy_Abhishek_M_RSAGWPESD0115_Assignment_2
 
-## This is the repository of assignment 2 given on 25/10/2024.
-## The assignment was based on Matlab and this repository consists of solution to the questions below:
+### This is the repository of assignment 2 given on 25/10/2024. The assignment was based on Matlab and this repository consists of solution to the questions mentioned below and the file name of the answer script/code/chart/model has been put next to the question below.
 
-### MATLAB Programming
+#### Matlab Stateflow
+#### 1 Washing Machine Cycle (stf_pro_1.slx)
+Design a Stateflow chart to simulate a washing machine cycle with states such as Fill, Wash, Rinse, Spin, and Done. Define each state's operation and simulate the flow from start to end.
 
+#### 2 Elevator Control System (FL_2.slx)
+Construct a Stateflow chart for an elevator control system. The elevator should have states for each floor (e.g., Floor 1, Floor 2, etc.) and transitions for Up and Down. Add logic for door open/close.
+
+#### MATLAB Programming
 #### 1 Projectile Trajectory Simulation (lab_pro_1.m)
 Develop a MATLAB script that simulates and plots the trajectory of a projectile. Take into account initial velocity, launch angle, and gravitational acceleration. Plot the range and maximum height.
 
