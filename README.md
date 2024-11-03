@@ -1,4 +1,4 @@
-# Ramaiah_Skill_Academy_Abhishek_M_RSAGWPESD0115_Assignment_2
+## Ramaiah_Skill_Academy_Abhishek_M_RSAGWPESD0115_Assignment_2
 
 ## This is the repository of assignment 2 given on 25/10/2024.
 ## The assignment was based on Matlab and this repository consists of solution to the questions below:
